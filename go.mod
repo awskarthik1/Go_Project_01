@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-module main.go
-=======
-module example.com/kartheek/go_project02
->>>>>>> Goproject02/main
+ module example.com/kartheek/go_project02
 
 go 1.23.0
 
